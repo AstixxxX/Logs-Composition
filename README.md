@@ -10,7 +10,7 @@ A simple powerful C++ logger with file and network output support, plus a test l
 - **Test log generator**: Automatic generation of realistic logs
 
 
-## Components**
+## Components
 
 - **Logger** : File logger that writes messages to a file with thread-safe operations.
 - **NetworkLogger** : Network logger that sends messages over the network.
