@@ -1,6 +1,6 @@
 # C++ Logger
 
-A simple powerful C++ logger with file and network output support, plus a test log generator.
+A simple powerful C++ logger with file and network output support, plus a test log generator. Inspired by Syslog
 
 ## Features
 
